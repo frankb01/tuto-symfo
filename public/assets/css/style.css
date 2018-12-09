@@ -1,7 +1,14 @@
+/* css custom */
+
 .header {
-    background-image: url('/public/assets/images/aiki.jpg');
+    background-image: url(/public/assets/images/aiki.jpg) !important;
+    text-align: center;
+    /* background-color: rgb(223, 211, 211); */
+    padding: 10rem;
+    height: 100vh; 
 }
 
-.header h1 {
-    color: red;
+.header h1, .header p {
+    color: rgb(99, 94, 94);
+    font-weight: bold;
 }
