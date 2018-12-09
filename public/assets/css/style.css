@@ -1,3 +1,7 @@
-.jumbotron {
+.header {
     background-image: url('/public/assets/images/aiki.jpg');
+}
+
+.header h1 {
+    color: red;
 }
