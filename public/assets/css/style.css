@@ -1,7 +1,8 @@
 /* css custom */
 
 .header {
-    background-image: url(/public/assets/images/aiki.jpg) !important;
+    background-image: url(../images/aiki.jpg);
+    background: no-repeat contain;
     text-align: center;
     /* background-color: rgb(223, 211, 211); */
     padding: 10rem;
